@@ -1,3 +1,3 @@
 # reviewclassification
 
-building a classifier that can predict a user's rating of a given restaurant from Yelp reviews
+A classifier that can predict a user's rating of a given restaurant from reviews. (uses reviews from Yelp)
